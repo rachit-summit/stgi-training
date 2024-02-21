@@ -1,0 +1,23 @@
+[
+    {
+        "id": "1",
+        "title": "Post One",
+        "summary": "This is the summary of post one.",
+        "photo":"blog/images/photo1.jpg",
+        "content": "Full content of post two..."
+    },
+    {
+        "id": "2",
+        "title": "Post Two",
+        "summary": "This is the summary of post two.",
+        "photo":"blog/images/photo2.jpg",
+        "content": "Full content of post two..."
+    },
+    {
+        "id": "3",
+        "title": "Post Three",
+        "summary": "This is the summary of post three.",
+        "photo":"blog/images/photo3.jpg",
+        "content": "Full content of post two..."
+    }
+]

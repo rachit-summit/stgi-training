@@ -4,7 +4,7 @@
 {% block content %}
     <h1>{{ post.title }}</h1>
     <article>
-        <img src="{% static post.photo %}" alt="{{ post.title }}">
-        {{ post.content | safe }}
+        <img src="{% static post.photo %}" alt="{{ post.title }}" height="100px" width="100px">
+        <p>{{ post.content | safe }}</p>
     </article>
 {% endblock %}
